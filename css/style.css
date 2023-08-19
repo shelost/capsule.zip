@@ -38,7 +38,7 @@ body {
 #splash #logo {
   width: 160px;
   margin-bottom: 50px;
-  box-shadow: 0px 20px 200px rgba(14, 255, 163, 0.6);
+  box-shadow: 0px 30px 200px rgba(14, 255, 163, 0.8);
   border-radius: 25px;
 }
 #splash h1 {
