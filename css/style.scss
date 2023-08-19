@@ -4,7 +4,6 @@
 body{
     font-family: 'Inter Tight', sans-serif;
     background: #080a15;
-    background: #FF005C;
     color: white;
     margin: 0;
 }
@@ -43,8 +42,8 @@ body{
     #logo{
         width: 160px;
         margin-bottom: 50px;
-        box-shadow: 0px 40px 100px rgba(black, 0.3);
-        border-radius: 10px;
+        box-shadow: 0px 20px 200px rgba(#0effa3, 0.6);
+        border-radius: 25px;
     }
 
     h1{
@@ -55,7 +54,8 @@ body{
     }
 
     h2{
-        font-weight: 300;
+        font-weight: 500;
+        color: #0effa3;
     }
 }
 
